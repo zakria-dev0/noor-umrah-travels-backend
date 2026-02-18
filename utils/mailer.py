@@ -176,7 +176,7 @@ def send_inquiry_email(data: dict):
         
         <!-- Footer -->
         <div style="background: #1a3c2a; padding: 20px; text-align: center;">
-            <p style="color: rgba(255,255,255,0.6); margin: 0; font-size: 12px;">© Haram Umrah Travels — haramumrahtravels.com</p>
+            <p style="color: rgba(255,255,255,0.6); margin: 0; font-size: 12px;">© Haram Umrah Travels — info@haramumrahtravels.com</p>
         </div>
     </div>
     """
