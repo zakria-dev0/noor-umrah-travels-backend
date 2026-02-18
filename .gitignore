@@ -52,7 +52,6 @@ dist/
 # =========================
 # IDE / Editor files
 # =========================
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -99,3 +98,7 @@ checkpoints/
 *.dat
 *.mp3
 *.dir
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
